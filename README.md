@@ -2,9 +2,9 @@
 Java program to parse an alignment and remove sequences that do not align to all other sequences by at least 20 amino acids.
 
 File format should be:
->header
+header
 sequence
->header
+header
 sequence
 ...
 
