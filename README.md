@@ -1,12 +1,5 @@
 # Alignment_Compare
-Java program to parse an alignment and remove sequences that do not align to all other sequences by at least 20 amino acids.
-
-File format should be:
-header
-sequence
-header
-sequence
-...
+Java program to parse an alignment and remove sequences that do not align to all other sequences by at least 20 amino acids. Each sequence in the fasta file should not contain new line characters.
 
 Installation and usage:
 
