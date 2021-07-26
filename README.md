@@ -1,5 +1,12 @@
 # Alignment_Compare
-Java program to parse an alignment and remove sequences that do not align to all other sequences by at least 20 amino acids. Sequences should be on one line.
+Java program to parse an alignment and remove sequences that do not align to all other sequences by at least 20 amino acids.
+
+File format should be:
+>header
+sequence
+>header
+sequence
+...
 
 Installation and usage:
 
